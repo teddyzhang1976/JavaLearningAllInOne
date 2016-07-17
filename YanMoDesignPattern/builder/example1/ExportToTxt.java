@@ -1,4 +1,4 @@
-package cn.javass.dp.builder.example1;
+package YanMoDesignPattern.builder.example1;
 import java.util.*;
 /**
  * 导出数据到文本文件的对象

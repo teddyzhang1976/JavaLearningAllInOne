@@ -1,4 +1,4 @@
-package cn.javass.dp.builder.example3;
+package YanMoDesignPattern.builder.example3;
 
 import java.util.*;
 

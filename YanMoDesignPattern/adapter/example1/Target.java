@@ -1,4 +1,4 @@
-package cn.javass.dp.adapter.example1;
+package YanMoDesignPattern.adapter.example1;
 /**
  * 定义客户端使用的接口，与特定领域相关
  */

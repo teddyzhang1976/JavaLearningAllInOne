@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example7;
+package YanMoDesignPattern.factorymethod.example7;
 /**
  * 导出的文件对象的接口
  */

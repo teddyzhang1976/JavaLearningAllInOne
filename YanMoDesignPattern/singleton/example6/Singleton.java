@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example6;
+package YanMoDesignPattern.singleton.example6;
 
 public class Singleton {
 	//4：定义一个静态变量来存储创建好的类实例

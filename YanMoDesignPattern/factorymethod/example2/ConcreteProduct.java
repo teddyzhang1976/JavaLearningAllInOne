@@ -1,4 +1,4 @@
-package factorymethod.example2;
+package YanMoDesignPattern.factorymethod.example2;
 /**
  * 具体的Product对象
  */

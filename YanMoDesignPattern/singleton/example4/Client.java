@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example4;
+package YanMoDesignPattern.singleton.example4;
 
 public class Client {
 	public static void main(String[] args) {

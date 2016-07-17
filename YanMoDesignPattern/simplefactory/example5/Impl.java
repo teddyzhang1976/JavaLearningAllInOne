@@ -1,4 +1,4 @@
-package simplefactory.example5;
+package YanMoDesignPattern.simplefactory.example5;
 /**
  * 对某个接口的一种实现 
  */

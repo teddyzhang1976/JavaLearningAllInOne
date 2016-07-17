@@ -1,4 +1,4 @@
-package cn.javass.dp.facade.example1;
+package YanMoDesignPattern.facade.example1;
 /**
  * 示意配置描述的数据Model，真实的配置数据会很多
  */

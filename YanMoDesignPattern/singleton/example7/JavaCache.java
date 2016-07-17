@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example7;
+package YanMoDesignPattern.singleton.example7;
 import java.util.*;
 /**
  * Java中缓存的基本实现示例

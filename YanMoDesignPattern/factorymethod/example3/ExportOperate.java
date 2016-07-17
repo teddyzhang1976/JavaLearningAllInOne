@@ -1,4 +1,4 @@
-package factorymethod.example3;
+package YanMoDesignPattern.factorymethod.example3;
 /**
  * 实现导出数据的业务功能对象
  */

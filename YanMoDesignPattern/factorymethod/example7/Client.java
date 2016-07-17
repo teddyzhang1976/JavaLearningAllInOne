@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example7;
+package YanMoDesignPattern.factorymethod.example7;
 
 public class Client {
 	public static void main(String[] args) {

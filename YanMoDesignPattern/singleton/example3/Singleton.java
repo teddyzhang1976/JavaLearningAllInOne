@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example3;
+package YanMoDesignPattern.singleton.example3;
 /**
  * 饿汉式单例实现的示例
  */

@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example5;
+package YanMoDesignPattern.factorymethod.example5;
 /**
  * 客户端使用Creator来创建客户端需要的对象的情况下，Creator的基本实现结构
  */

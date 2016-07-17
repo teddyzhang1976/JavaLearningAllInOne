@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example7;
+package YanMoDesignPattern.factorymethod.example7;
 /**
  * 导出成xml文件的对象
  */

@@ -1,4 +1,4 @@
-package cn.javass.dp.builder.example4;
+package YanMoDesignPattern.builder.example4;
 
 public class Client {
 	public static void main(String[] args) {

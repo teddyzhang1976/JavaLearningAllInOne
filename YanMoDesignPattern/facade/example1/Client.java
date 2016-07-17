@@ -1,4 +1,4 @@
-package cn.javass.dp.facade.example1;
+package YanMoDesignPattern.facade.example1;
 
 public class Client {
 	public static void main(String[] args) {

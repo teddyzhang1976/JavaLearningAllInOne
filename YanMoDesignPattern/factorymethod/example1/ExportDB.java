@@ -1,4 +1,4 @@
-package factorymethod.example1;
+package YanMoDesignPattern.factorymethod.example1;
 /**
  * 导出成数据库备份文件形式的对象
  */

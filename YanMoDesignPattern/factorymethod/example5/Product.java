@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example5;
+package YanMoDesignPattern.factorymethod.example5;
 
 public interface Product {
 	public void setProduct1(Product1 p1);
