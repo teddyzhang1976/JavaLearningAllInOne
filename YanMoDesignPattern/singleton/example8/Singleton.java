@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example8;
+package YanMoDesignPattern.singleton.example8;
 import java.util.*;
 /**
  * 使用缓存来模拟实现单例

@@ -1,4 +1,4 @@
-package cn.javass.dp.builder.example2;
+package YanMoDesignPattern.builder.example2;
 /**
  * 被构建的产品对象的接口
  */

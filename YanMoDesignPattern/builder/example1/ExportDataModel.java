@@ -1,4 +1,4 @@
-package cn.javass.dp.builder.example1;
+package YanMoDesignPattern.builder.example1;
 /**
  * 描述输出数据的对象
  */

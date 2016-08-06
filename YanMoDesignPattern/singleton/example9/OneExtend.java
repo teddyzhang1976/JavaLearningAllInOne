@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example9;
+package YanMoDesignPattern.singleton.example9;
 import java.util.*;
 /**
  * 简单演示如何扩展单例模式，控制实例数目为3个 

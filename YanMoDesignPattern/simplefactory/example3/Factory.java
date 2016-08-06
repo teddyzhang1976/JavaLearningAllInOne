@@ -1,4 +1,4 @@
-package simplefactory.example3;
+package YanMoDesignPattern.simplefactory.example3;
 /**
  * 工厂类，用来创造Api对象
  */

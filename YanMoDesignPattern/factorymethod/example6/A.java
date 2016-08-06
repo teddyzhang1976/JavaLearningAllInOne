@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example6;
+package YanMoDesignPattern.factorymethod.example6;
 
 public class A {
 	/**

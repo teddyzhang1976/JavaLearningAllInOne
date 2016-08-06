@@ -1,4 +1,4 @@
-package simplefactory.example5;
+package YanMoDesignPattern.simplefactory.example5;
 import java.util.*;
 import java.io.*;
 /**
@@ -8,6 +8,12 @@ public class Factory {
 	/**
 	 * 具体的创造Api的方法，根据配置文件的参数来创建接口
 	 * @return 创造好的Api对象
+	 * Now, even Factory don't need to know the detail about Impl.
+	 * In future, if you have a new impl, you only need to put it's
+	 * name in the properties file.
+	 * This way's shortage is that you can only fit one impl a time.
+	 * and a little low effective.
+	 * If you want to fit more impl, you had better use back the example4.
 	 */
 	public static Api createApi(){
 		//直接读取配置文件来获取需要创建实例的类

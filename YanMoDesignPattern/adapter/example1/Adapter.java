@@ -1,4 +1,4 @@
-package cn.javass.dp.adapter.example1;
+package YanMoDesignPattern.adapter.example1;
 /**
  * ÊÊÅäÆ÷
  */

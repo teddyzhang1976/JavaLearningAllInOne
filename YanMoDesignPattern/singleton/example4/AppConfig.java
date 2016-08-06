@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example4;
+package YanMoDesignPattern.singleton.example4;
 
 import java.io.*;
 import java.util.*;

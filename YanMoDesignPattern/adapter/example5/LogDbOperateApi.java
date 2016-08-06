@@ -1,4 +1,4 @@
-package cn.javass.dp.adapter.example5;
+package YanMoDesignPattern.adapter.example5;
 import java.util.*;
 /**
  * 定义操作日志的应用接口，为了示例的简单，

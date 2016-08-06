@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example5;
+package YanMoDesignPattern.singleton.example5;
 
 public class Singleton {
 	//4：定义一个变量来存储创建好的类实例

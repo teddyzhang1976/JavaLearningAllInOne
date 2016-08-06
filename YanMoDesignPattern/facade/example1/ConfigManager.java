@@ -1,4 +1,4 @@
-package cn.javass.dp.facade.example1;
+package YanMoDesignPattern.facade.example1;
 /**
  * 示意配置管理，就是负责读取配置文件，
  * 并把配置文件的内容设置到配置Model中去，是个单例

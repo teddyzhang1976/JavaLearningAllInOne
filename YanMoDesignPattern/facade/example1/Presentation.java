@@ -1,4 +1,4 @@
-package cn.javass.dp.facade.example1;
+package YanMoDesignPattern.facade.example1;
 /**
  * 示意生成表现层的模块
  */

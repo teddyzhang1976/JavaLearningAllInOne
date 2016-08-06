@@ -1,4 +1,4 @@
-package cn.javass.dp.adapter.example2;
+package YanMoDesignPattern.adapter.example2;
 
 import java.io.*;
 import java.util.*;

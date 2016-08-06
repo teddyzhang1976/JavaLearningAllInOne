@@ -1,4 +1,4 @@
-package cn.javass.dp.facade.example3;
+package YanMoDesignPattern.facade.example3;
 /**
  * 代码生成子系统的外观对象
  */

@@ -1,4 +1,4 @@
-package cn.javass.dp.facade.example4;
+package YanMoDesignPattern.facade.example4;
 
 public interface BModuleApi {
 	//对子系统外部

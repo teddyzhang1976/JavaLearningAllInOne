@@ -1,4 +1,4 @@
-package singleton.example1;
+package YanMoDesignPattern.singleton.example1;
 
 import java.io.*;
 import java.util.*;

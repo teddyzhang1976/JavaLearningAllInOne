@@ -1,4 +1,4 @@
-package cn.javass.dp.factorymethod.example7;
+package YanMoDesignPattern.factorymethod.example7;
 /**
  * 扩展ExportOperate对象，加入可以导出XML文件
  */

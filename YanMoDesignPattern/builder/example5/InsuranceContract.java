@@ -1,4 +1,4 @@
-package cn.javass.dp.builder.example5;
+package YanMoDesignPattern.builder.example5;
 /**
  * 保险合同的对象
  */

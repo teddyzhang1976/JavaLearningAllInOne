@@ -1,4 +1,4 @@
-package cn.javass.dp.facade.example2;
+package YanMoDesignPattern.facade.example2;
 /**
  * A模块的接口
  */

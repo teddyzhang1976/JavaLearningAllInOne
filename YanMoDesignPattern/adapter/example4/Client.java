@@ -1,4 +1,4 @@
-package cn.javass.dp.adapter.example4;
+package YanMoDesignPattern.adapter.example4;
 import java.util.*;
 public class Client {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package cn.javass.dp.facade.example3;
+package YanMoDesignPattern.facade.example3;
 /**
  * 示意生成逻辑层的模块
  */

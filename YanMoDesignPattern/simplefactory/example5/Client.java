@@ -1,4 +1,4 @@
-package simplefactory.example5;
+package YanMoDesignPattern.simplefactory.example5;
 
 /**
  * 客户端：测试使用Api接口

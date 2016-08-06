@@ -1,4 +1,4 @@
-package cn.javass.dp.singleton.example2;
+package YanMoDesignPattern.singleton.example2;
 
 /**
  * µ¥ÀýÊ¾Àý

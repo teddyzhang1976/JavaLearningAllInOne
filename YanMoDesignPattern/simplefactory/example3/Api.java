@@ -1,4 +1,4 @@
-package simplefactory.example3;
+package YanMoDesignPattern.simplefactory.example3;
 /**
  * 某个接口(通用的、抽象的、非具体的功能的) 
  */
