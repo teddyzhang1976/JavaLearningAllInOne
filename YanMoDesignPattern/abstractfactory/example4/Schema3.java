@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example4;
+package YanMoDesignPattern.abstractfactory.example4;
 
 /**
  * 装机方案三：Intel 的CPU + 技嘉的主板 + 现代的内存

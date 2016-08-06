@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example4;
+package YanMoDesignPattern.abstractfactory.example4;
 
 /**
  * 装机方案二：AMD的CPU + 微星的主板
