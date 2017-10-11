@@ -1,4 +1,4 @@
-package cn.javass.dp.templatemethod.example3;
+package YanMoDesignPattern.templatemethod.example3;
 /**
  * 定义模板方法、原语操作等的抽象类
  */

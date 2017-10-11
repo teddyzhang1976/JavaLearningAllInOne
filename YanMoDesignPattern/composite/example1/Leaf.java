@@ -1,4 +1,4 @@
-package cn.javass.dp.composite.example1;
+package YanMoDesignPattern.composite.example1;
 /**
  * Ò¶×Ó¶ÔÏó
  */

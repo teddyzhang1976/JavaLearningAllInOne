@@ -1,4 +1,4 @@
-package cn.javass.dp.mediator.example3;
+package YanMoDesignPattern.mediator.example3;
 /**
  *	描述部门和人员关系的类
  */

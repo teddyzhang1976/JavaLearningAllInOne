@@ -1,4 +1,4 @@
-package cn.javass.dp.templatemethod.example4;
+package YanMoDesignPattern.templatemethod.example4;
 /**
  *	µÇÂ¼¿ØÖÆµÄÄ£°å
  */

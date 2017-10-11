@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example9;
+package YanMoDesignPattern.iterator.example9;
 
 /**
  * 被客户方收购的那个公司的工资管理类

@@ -1,4 +1,4 @@
-package cn.javass.dp.composite.example2;
+package YanMoDesignPattern.composite.example2;
 
 /**
  * 叶子对象，叶子对象不再包含其它子对象

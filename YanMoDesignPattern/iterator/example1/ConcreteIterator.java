@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example1;
+package YanMoDesignPattern.iterator.example1;
 
 /**
  * 具体迭代器实现对象，示意的是聚合对象为数组的迭代器

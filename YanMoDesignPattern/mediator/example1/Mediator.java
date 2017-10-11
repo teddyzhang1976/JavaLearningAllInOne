@@ -1,4 +1,4 @@
-package cn.javass.dp.mediator.example1;
+package YanMoDesignPattern.mediator.example1;
 /**
  * 中介者，定义各个同事对象通信的接口
  */

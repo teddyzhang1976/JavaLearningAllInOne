@@ -1,4 +1,4 @@
-package cn.javass.dp.templatemethod.example4;
+package YanMoDesignPattern.templatemethod.example4;
 
 /**
  * 普通用户登录控制加强版的逻辑处理

@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example8;
+package YanMoDesignPattern.iterator.example8;
 import java.util.*;
 /**
  * 定义翻页访问聚合元素的迭代接口
