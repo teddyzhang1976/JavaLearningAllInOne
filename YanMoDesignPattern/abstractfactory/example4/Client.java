@@ -1,4 +1,4 @@
-package cn.javass.dp.abstractfactory.example4;
+package YanMoDesignPattern.abstractfactory.example4;
 
 public class Client {
 	public static void main(String[] args) {
