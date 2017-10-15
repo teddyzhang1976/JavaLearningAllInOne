@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example1;
+package YanMoDesignPattern.iterator.example1;
 
 public class Client {
 	/**

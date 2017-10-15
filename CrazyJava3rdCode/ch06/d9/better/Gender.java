@@ -1,4 +1,4 @@
-package ch06.d9.better;
+package CrazyJava3rdCode.ch06.d9.better;
 
 
 

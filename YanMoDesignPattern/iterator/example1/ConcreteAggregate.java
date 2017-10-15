@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example1;
+package YanMoDesignPattern.iterator.example1;
 
 /**
  * 具体的聚合对象，实现创建相应迭代器对象的功能

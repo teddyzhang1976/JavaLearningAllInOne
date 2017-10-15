@@ -1,3 +1,5 @@
+package CrazyJava3rdCode.ch15.d1507;
+
 
 import java.io.*;
 /**
@@ -10,18 +12,21 @@ import java.io.*;
  * @author Yeeku.H.Lee kongyeeku@163.com
  * @version 1.0
  */
-public class FilenameFilterTest
+public class AppendContent
 {
 	public static void main(String[] args)
 	{
-		File file = new File(".");
-		// 使用Lambda表达式（目标类型为FilenameFilter）实现文件过滤器。
-		// 如果文件名以.java结尾，或者文件对应一个路径，返回true
-		String[] nameList = file.list((dir, name) -> name.endsWith(".java")
-			|| new File(name).isDirectory());
-		for(String name : nameList)
+		try(
+			//以读、写方式打开一个RandomAccessFile对象
+			RandomAccessFile raf = new RandomAccessFile("d:/out.txt" , "rw"))
 		{
-			System.out.println(name);
+			//将记录指针移动到out.txt文件的最后
+			raf.seek(raf.length());
+			raf.write("追加的内容！\r\n".getBytes());
+		}
+		catch (IOException ex)
+		{
+			ex.printStackTrace();
 		}
 	}
 }

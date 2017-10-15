@@ -1,4 +1,4 @@
-package cn.javass.dp.templatemethod.example1;
+package YanMoDesignPattern.templatemethod.example1;
 /**
  * 描述用户信息的数据模型
  */

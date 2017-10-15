@@ -1,4 +1,4 @@
-package cn.javass.dp.mediator.example1;
+package YanMoDesignPattern.mediator.example1;
 /**
  * 具体的同事类A
  */

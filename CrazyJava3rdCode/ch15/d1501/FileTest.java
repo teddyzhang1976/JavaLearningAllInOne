@@ -1,4 +1,4 @@
-
+package CrazyJava3rdCode.ch15.d1501;
 import java.io.*;
 /**
  * Description:

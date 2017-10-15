@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example8;
+package YanMoDesignPattern.iterator.example8;
 
 public class PayModel {
 	private String userName;

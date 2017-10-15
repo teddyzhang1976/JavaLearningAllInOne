@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example2;
+package YanMoDesignPattern.iterator.example2;
 /**
  * 工资描述模型对象
  */

@@ -1,4 +1,4 @@
-package cn.javass.dp.composite.example4;
+package YanMoDesignPattern.composite.example4;
 
 public class RecursiveTest {
 	/**

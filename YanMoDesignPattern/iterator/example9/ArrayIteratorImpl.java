@@ -1,7 +1,9 @@
-package cn.javass.dp.iterator.example9;
+package YanMoDesignPattern.iterator.example9;
 
 import java.util.ArrayList;
 import java.util.Collection;
+
+import org.junit.Test;
 
 /**
  * 用来实现随机翻页访问聚合元素的迭代接口
@@ -20,7 +22,7 @@ public class ArrayIteratorImpl implements AggregationIterator{
 		this.pms = aggregate.getPays();
 	}
 	
-	
+	@Test
 	public boolean hasNext() {
 		//判断是否还有下一个元素
 		if(pms!=null && index<=(pms.length-1)){

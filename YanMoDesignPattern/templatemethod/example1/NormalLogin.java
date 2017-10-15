@@ -1,4 +1,6 @@
-package cn.javass.dp.templatemethod.example1;
+package YanMoDesignPattern.templatemethod.example1;
+
+import org.junit.Test;
 
 /**
  * 普通用户登录控制的逻辑处理
@@ -9,6 +11,7 @@ public class NormalLogin {
 	 * @param lm 封装登录数据的Model
 	 * @return true表示登录成功，false表示登录失败
 	 */
+	@Test
 	public boolean login(LoginModel lm) {
 		//1：从数据库获取登录人员的信息， 就是根据用户编号去获取人员的数据
 		UserModel um = this.findUserByUserId(lm.getUserId());

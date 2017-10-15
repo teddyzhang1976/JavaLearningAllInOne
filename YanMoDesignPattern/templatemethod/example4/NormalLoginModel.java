@@ -1,4 +1,4 @@
-package cn.javass.dp.templatemethod.example4;
+package YanMoDesignPattern.templatemethod.example4;
 /**
  * 封装进行登录控制所需要的数据，在公共数据的基础上，
  * 添加具体模块需要的数据

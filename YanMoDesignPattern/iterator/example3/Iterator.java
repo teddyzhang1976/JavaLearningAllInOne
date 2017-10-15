@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example3;
+package YanMoDesignPattern.iterator.example3;
 
 /**
  * 迭代器接口，定义访问和遍历元素的操作

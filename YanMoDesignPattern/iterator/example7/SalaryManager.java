@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example7;
+package YanMoDesignPattern.iterator.example7;
 
 
 /**

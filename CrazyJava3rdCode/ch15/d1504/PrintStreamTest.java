@@ -1,3 +1,5 @@
+package CrazyJava3rdCode.ch15.d1504;
+
 
 import java.io.*;
 /**
@@ -22,6 +24,7 @@ public class PrintStreamTest
 			ps.println("普通字符串");
 			// 直接使用PrintStream输出对象
 			ps.println(new PrintStreamTest());
+			System.out.println(new PrintStreamTest());
 		}
 		catch (IOException ioe)
 		{

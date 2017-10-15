@@ -1,4 +1,4 @@
-package cn.javass.dp.templatemethod.example4;
+package YanMoDesignPattern.templatemethod.example4;
 /**
  * 封装进行登录控制所需要的数据
  */

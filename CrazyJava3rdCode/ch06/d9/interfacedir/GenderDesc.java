@@ -1,3 +1,5 @@
+package CrazyJava3rdCode.ch06.d9.interfacedir;
+
 
 
 /**

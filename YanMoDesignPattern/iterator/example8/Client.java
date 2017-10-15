@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example8;
+package YanMoDesignPattern.iterator.example8;
 import java.util.*;
 public class Client {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package cn.javass.dp.proxy.example1;
+package YanMoDesignPattern.proxy.example1;
 /**
  * 描述用户数据的对象
  */

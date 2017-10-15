@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example7;
+package YanMoDesignPattern.iterator.example7;
 
 /**
  * 用来实现访问数组的双向迭代接口

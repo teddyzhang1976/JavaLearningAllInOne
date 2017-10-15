@@ -1,4 +1,4 @@
-package cn.javass.dp.composite.example7;
+package YanMoDesignPattern.composite.example7;
 
 public class Client {
 	public static void main(String[] args) {

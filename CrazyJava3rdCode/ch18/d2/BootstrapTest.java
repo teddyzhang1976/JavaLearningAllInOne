@@ -1,5 +1,7 @@
+package CrazyJava3rdCode.ch18.d2;
 
-import java.io.*;
+
+import java.net.*;
 /**
  * Description:
  * <br/>网站: <a href="http://www.crazyit.org">疯狂Java联盟</a>
@@ -10,21 +12,17 @@ import java.io.*;
  * @author Yeeku.H.Lee kongyeeku@163.com
  * @version 1.0
  */
-public class AppendContent
+public class BootstrapTest
 {
 	public static void main(String[] args)
 	{
-		try(
-			//以读、写方式打开一个RandomAccessFile对象
-			RandomAccessFile raf = new RandomAccessFile("out.txt" , "rw"))
+		// 获取根类加载器所加载的全部URL数组
+		URL[] urls = sun.misc.Launcher.getBootstrapClassPath().getURLs();
+		// 遍历、输出根类加载器加载的全部URL
+		for (int i = 0; i < urls.length; i++)
 		{
-			//将记录指针移动到out.txt文件的最后
-			raf.seek(raf.length());
-			raf.write("追加的内容！\r\n".getBytes());
-		}
-		catch (IOException ex)
-		{
-			ex.printStackTrace();
+			System.out.println(urls[i].toExternalForm());
 		}
 	}
 }
+

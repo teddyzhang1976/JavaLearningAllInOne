@@ -1,4 +1,4 @@
-package cn.javass.dp.mediator.example3;
+package YanMoDesignPattern.mediator.example3;
 
 import java.util.ArrayList;
 import java.util.Collection;

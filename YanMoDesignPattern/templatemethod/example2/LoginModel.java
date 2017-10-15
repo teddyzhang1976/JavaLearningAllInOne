@@ -1,4 +1,4 @@
-package cn.javass.dp.templatemethod.example2;
+package YanMoDesignPattern.templatemethod.example2;
 /**
  * 描述登录人员登录时填写的信息的数据模型
  */

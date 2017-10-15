@@ -1,4 +1,4 @@
-package cn.javass.dp.templatemethod.example2;
+package YanMoDesignPattern.templatemethod.example2;
 
 /**
  * 工作人员登录控制的逻辑处理

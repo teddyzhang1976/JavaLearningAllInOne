@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example6;
+package YanMoDesignPattern.iterator.example6;
 
 import java.util.Collection;
 import java.util.Iterator;

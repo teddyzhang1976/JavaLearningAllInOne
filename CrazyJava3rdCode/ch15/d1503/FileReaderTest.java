@@ -1,5 +1,9 @@
+package CrazyJava3rdCode.ch15.d1503;
 
-import java.io.*;
+
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 /**
  * Description:
  * <br/>网站: <a href="http://www.crazyit.org">疯狂Java联盟</a>
@@ -14,9 +18,16 @@ public class FileReaderTest
 {
 	public static void main(String[] args)
 	{
+		File fs=new File(".");
+		
+		//System.out.println(fs.getAbsolutePath());
+		System.out.println(fs.getAbsoluteFile().getParent());
+		System.out.println(FileReaderTest.class.getPackage().getName());
 		try(
 			// 创建字符输入流
-			FileReader fr = new FileReader("FileReaderTest.java"))
+			
+				
+			FileReader fr = new FileReader(fs.getAbsoluteFile().getParent()+'/'+FileReaderTest.class.getPackage().getName().replaceAll("\\.", "/")+"/FileReaderTest.java"))
 		{
 			// 创建一个长度为32的“竹筒”
 			char[] cbuf = new char[32];

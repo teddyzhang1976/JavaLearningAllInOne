@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example3;
+package YanMoDesignPattern.iterator.example3;
 
 /**
  * 聚合对象的接口，定义创建相应迭代器对象的接口

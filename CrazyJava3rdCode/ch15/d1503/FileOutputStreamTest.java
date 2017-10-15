@@ -1,3 +1,5 @@
+package CrazyJava3rdCode.ch15.d1503;
+
 
 import java.io.*;
 /**

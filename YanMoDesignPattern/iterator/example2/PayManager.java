@@ -1,4 +1,4 @@
-package cn.javass.dp.iterator.example2;
+package YanMoDesignPattern.iterator.example2;
 import java.util.*;
 /**
  * 客户方已有的工资管理对象
