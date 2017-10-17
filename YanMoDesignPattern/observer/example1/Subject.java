@@ -1,4 +1,4 @@
-package cn.javass.dp.observer.example1;
+package YanMoDesignPattern.observer.example1;
 
 import java.util.*;
 /**

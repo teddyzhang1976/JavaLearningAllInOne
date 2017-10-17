@@ -1,4 +1,4 @@
-package cn.javass.dp.observer.example3;
+package YanMoDesignPattern.observer.example3;
 /**
  * 真正的读者，为了简单就描述一下姓名
  */

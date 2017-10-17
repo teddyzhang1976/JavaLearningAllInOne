@@ -1,4 +1,4 @@
-package cn.javass.dp.observer.example3;
+package YanMoDesignPattern.observer.example3;
 import java.util.*;
 /**
  * 报纸对象，具体的目标实现

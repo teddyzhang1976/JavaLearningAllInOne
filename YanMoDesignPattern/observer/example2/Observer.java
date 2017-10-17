@@ -1,4 +1,4 @@
-package cn.javass.dp.observer.example2;
+package YanMoDesignPattern.observer.example2;
 /**
  * 观察者，比如报纸的读者
  */

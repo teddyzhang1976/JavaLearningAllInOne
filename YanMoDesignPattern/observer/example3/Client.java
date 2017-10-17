@@ -1,4 +1,4 @@
-package cn.javass.dp.observer.example3;
+package YanMoDesignPattern.observer.example3;
 
 public class Client {
 	public static void main(String[] args) {

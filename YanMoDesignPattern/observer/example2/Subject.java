@@ -1,4 +1,4 @@
-package cn.javass.dp.observer.example2;
+package YanMoDesignPattern.observer.example2;
 
 import java.util.ArrayList;
 import java.util.List;
