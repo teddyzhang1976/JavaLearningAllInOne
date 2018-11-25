@@ -1,3 +1,5 @@
+package c04;
+
 //: c04:TerminationCondition.java
 // Using finalize() to detect an object that
 // hasn't been properly cleaned up.
