@@ -1,4 +1,4 @@
-package lee;
+package ch03.d1;
 /**
  * Description:
  * <br>利嫋: <a href="http://www.crazyit.org">決髄Java選男</a>

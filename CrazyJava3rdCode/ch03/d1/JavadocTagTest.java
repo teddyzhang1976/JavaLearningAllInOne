@@ -1,4 +1,4 @@
-package yeeku;
+package ch03.d1;
 
 /**
  * Description:
